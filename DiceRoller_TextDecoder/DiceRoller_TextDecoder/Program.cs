@@ -54,6 +54,10 @@ namespace DiceRoller_TextDecoder
                 else
                 {
                     Console.WriteLine("Result = " +item);
+                    if (diceArray[0] == diceArray[1])
+                    {
+                        break;
+                    }
                 }
             }
         }
