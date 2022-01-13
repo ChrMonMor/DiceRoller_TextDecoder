@@ -1,0 +1,8 @@
+C:\Users\HFGF\source\repos\DiceRoller_TextDecoder\DiceRoller_TextDecoder\DiceRoller_TextDecoder\bin\Debug\DiceRoller_TextDecoder.exe.config
+C:\Users\HFGF\source\repos\DiceRoller_TextDecoder\DiceRoller_TextDecoder\DiceRoller_TextDecoder\bin\Debug\DiceRoller_TextDecoder.exe
+C:\Users\HFGF\source\repos\DiceRoller_TextDecoder\DiceRoller_TextDecoder\DiceRoller_TextDecoder\bin\Debug\DiceRoller_TextDecoder.pdb
+C:\Users\HFGF\source\repos\DiceRoller_TextDecoder\DiceRoller_TextDecoder\DiceRoller_TextDecoder\obj\Debug\DiceRoller_TextDecoder.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\DiceRoller_TextDecoder\DiceRoller_TextDecoder\DiceRoller_TextDecoder\obj\Debug\DiceRoller_TextDecoder.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\source\repos\DiceRoller_TextDecoder\DiceRoller_TextDecoder\DiceRoller_TextDecoder\obj\Debug\DiceRoller_TextDecoder.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\DiceRoller_TextDecoder\DiceRoller_TextDecoder\DiceRoller_TextDecoder\obj\Debug\DiceRoller_TextDecoder.exe
+C:\Users\HFGF\source\repos\DiceRoller_TextDecoder\DiceRoller_TextDecoder\DiceRoller_TextDecoder\obj\Debug\DiceRoller_TextDecoder.pdb
