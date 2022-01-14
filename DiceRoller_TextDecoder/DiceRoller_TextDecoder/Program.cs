@@ -46,7 +46,7 @@ namespace DiceRoller_TextDecoder
             for (int i = 0; i < diceSum; i++)
             {
                 result[i] = random.Next(1, diceSize + 1);
-                Task.Delay(1).Wait();
+                Task.Delay(1).Wait(1);
                 total += result[i];
             }
             result[diceSum] = total;
