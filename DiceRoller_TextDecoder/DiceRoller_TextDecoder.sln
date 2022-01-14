@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoller_TextDecoder", "DiceRoller_TextDecoder\DiceRoller_TextDecoder.csproj", "{95CE633E-2A00-478B-83EF-4774EB0C7AA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoller_TextDecoder_UnitTest", "DiceRoller_TextDecoder_UnitTest\DiceRoller_TextDecoder_UnitTest.csproj", "{2FA83337-F416-4BC5-9D5E-82FD7B5FB545}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{95CE633E-2A00-478B-83EF-4774EB0C7AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95CE633E-2A00-478B-83EF-4774EB0C7AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95CE633E-2A00-478B-83EF-4774EB0C7AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA83337-F416-4BC5-9D5E-82FD7B5FB545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA83337-F416-4BC5-9D5E-82FD7B5FB545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA83337-F416-4BC5-9D5E-82FD7B5FB545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA83337-F416-4BC5-9D5E-82FD7B5FB545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
